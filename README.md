@@ -1,6 +1,6 @@
 # InstaCat + API 
 
-Criando com ReactJS, como exercício utilziando consumindo uma API e utilizando os Hooks (useState, useEffect)
+Criado com ReactJS, como exercício utilziando consumindo uma API e utilizando os Hooks (useState, useEffect)
 
 Coloquei também um limite de curtidas, onde quando o contador chega no limite e atualiza a página automaticamente.
 
